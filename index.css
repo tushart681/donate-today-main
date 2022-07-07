@@ -106,3 +106,64 @@ input::-webkit-inner-spin-button {
 input[type=number] {
     -moz-appearance: textfield;
 }
+
+.box_list1 {
+    min-width: 150;
+    min-height: 180;
+
+}
+
+.box_list1 {
+    min-width: 120px;
+    min-height: 140px;
+    background-color: #FAFAFA;
+    color: #707070;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.single_box1 {
+    min-width: 180px;
+    min-height: 200px;
+    background-color: #FAFAFA;
+    color: #707070;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.active1 {
+    border-radius: 5px;
+    background-color: #FFEBCD;
+}
+
+.active2 {
+    border-radius: 5px;
+    background-color: #F5F5DC;
+}
+
+.active3 {
+    border-radius: 5px;
+    background-color: bisque;
+}
+
+.second_banner {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 25px;
+}
+
+.second_banner1 {
+    text-align: center;
+}
+
+.last_title {
+    background-color: black;
+    text-align: center;
+}
+
+.last_title1 {
+    color: red;
+}
