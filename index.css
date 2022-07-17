@@ -167,3 +167,26 @@ input[type=number] {
 .last_title1 {
     color: red;
 }
+
+.get_update {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 120px;
+    min-height: 80vh;
+}
+
+.update {
+    text-align: center;
+}
+
+.get {
+    background-color: bisque;
+    height: 120px;
+    width: 500px;
+}
+
+.update_input {
+    padding: 50px;
+}
